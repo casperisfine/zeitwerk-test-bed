@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    zeitwerk (1.3.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  zeitwerk
+
+BUNDLED WITH
+   1.17.3
